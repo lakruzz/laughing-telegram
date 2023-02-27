@@ -1,4 +1,3 @@
 [template]
 	repo = kea-dev/continuous-integration
 	issue-label = template
-	

@@ -4,7 +4,7 @@ name: Classroom Repo Init from Template
 on:
   push:
     branches:
-      - **
+      - '**'
     paths:
       - .github/template/**
 
